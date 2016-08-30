@@ -50,9 +50,11 @@ store.dispatch({ type: ACTIONS.SET_COUT, payload: 1 }) // => CounterStore { coun
 
 ## Credits
 
-- [Hexbridge](http://hexbridge.com) for sponsoring my open-source work.
-- [Airbnb](http://airbnb.com) for the work they've put into the javascript style guide and into the ESlint package.
+- [Hexbridge](http://hexbridge.com)
+- [Airbnb](http://airbnb.com)
+- [Redux](https://github.com/reactjs/redux)
+- [npm-starter](https://github.com/deiucanta/npm-starter)
 
 ## License
 
-MIT @ [Andrei Canta](https://twitter.com/deiucanta)
+MIT @ [Joe Delgado](https://twitter.com/soy_chupacabra)
