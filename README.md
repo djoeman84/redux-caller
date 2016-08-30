@@ -6,8 +6,6 @@
 
 ---
 
-This enables you to write ES2015 code but before the package is published on NPM, it gets converted to ES5 code so anyone can use it in their projects.
-
 ## Peer Dependencies
 - [Redux](https://github.com/reactjs/redux)
 
