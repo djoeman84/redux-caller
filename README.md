@@ -38,7 +38,7 @@ class CounterStore extends Record({count: 1}) {
   }
 }
 
-let store = createStore(new CounterStore());
+let store = createStore(createReducer(new CounterStore()));
 
 store.dispatch({ type: ACTIONS.SET_COUT, payload: 2 }) // => CounterStore { count = 2 }
 
