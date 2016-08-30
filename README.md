@@ -1,7 +1,7 @@
 [![Version](https://img.shields.io/npm/v/redux-caller.svg)](https://www.npmjs.com/package/redux-caller)
-[![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/deiucanta/redux-caller/blob/master/LICENSE)
-[![dependencies](https://david-dm.org/deiucanta/redux-caller.svg)](https://david-dm.org/deiucanta/redux-caller)
-[![devDependency Status](https://david-dm.org/deiucanta/redux-caller/dev-status.svg)](https://david-dm.org/deiucanta/redux-caller#info=devDependencies)
+[![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/djoeman84/redux-caller/blob/master/LICENSE)
+[![dependencies](https://david-dm.org/djoeman84/redux-caller.svg)](https://david-dm.org/djoeman84/redux-caller)
+[![devDependency Status](https://david-dm.org/djoeman84/redux-caller/dev-status.svg)](https://david-dm.org/djoeman84/redux-caller#info=devDependencies)
 [![airbnb code style](https://img.shields.io/badge/code%20style-airbnb-fd5c63.svg)](https://github.com/airbnb/javascript)
 
 ---
