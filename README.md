@@ -48,7 +48,6 @@ store.dispatch({ type: ACTIONS.SET_COUT, payload: 1 }) // => CounterStore { coun
 
 ## Credits
 
-- [Hexbridge](http://hexbridge.com)
 - [Airbnb](http://airbnb.com)
 - [Redux](https://github.com/reactjs/redux)
 - [npm-starter](https://github.com/deiucanta/npm-starter)
