@@ -1,6 +1,6 @@
 {
   "name": "redux-caller",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "license": "MIT",
   "description": "Redux Calls you: Simple Library to have redux reducers call a method on your store",
   "keywords": [
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/deiucanta/npm-starter.git"
+    "url": "https://github.com/djoeman84/redux-caller.git"
   },
   "main": "index.js",
   "scripts": {
