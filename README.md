@@ -29,7 +29,7 @@ class CounterStore extends Record({count: 1}) {
   handleAction({type, payload}) {
     switch (type) {
       case ACTIONS.SET_COUNT:
-        return this.setState(payload);
+        return this.set('count', payload);
       default:
         return this;
     }
@@ -38,11 +38,11 @@ class CounterStore extends Record({count: 1}) {
 
 let store = createStore(createReducer(new CounterStore()));
 
-store.dispatch({ type: ACTIONS.SET_COUT, payload: 2 }) // => CounterStore { count = 2 }
+store.dispatch({ type: ACTIONS.SET_COUNT, payload: 2 }) // => CounterStore { count = 2 }
 
-store.dispatch({ type: ACTIONS.SET_COUT, payload: 20 }) // => CounterStore { count = 20 }
+store.dispatch({ type: ACTIONS.SET_COUNT, payload: 20 }) // => CounterStore { count = 20 }
 
-store.dispatch({ type: ACTIONS.SET_COUT, payload: 1 }) // => CounterStore { count = 1 }
+store.dispatch({ type: ACTIONS.SET_COUNT, payload: 1 }) // => CounterStore { count = 1 }
 
 ```
 
