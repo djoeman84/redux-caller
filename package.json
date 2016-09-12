@@ -1,6 +1,6 @@
 {
   "name": "redux-caller",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "license": "MIT",
   "description": "Redux Calls you: Simple Library to have redux reducers call a method on your store",
   "keywords": [
