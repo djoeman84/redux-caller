@@ -2,6 +2,6 @@
   "parser": "babel-eslint",
   "extends": "airbnb/base",
   "rules": {
-    // custom rules
+    "import/prefer-default-export": "off"
   }
 }

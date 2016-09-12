@@ -3,6 +3,6 @@
     "mocha": true
   },
   "rules": {
-    // custom rules just for tests
+    "import/no-extraneous-dependencies": "off"
   }
 }
