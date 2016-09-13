@@ -1,6 +1,6 @@
 {
   "name": "redux-caller",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "license": "MIT",
   "description": "Redux Calls you: Simple Library to have redux reducers call a method on your store",
   "keywords": [
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/djoeman84/redux-caller.git"
   },
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "clean": "rimraf dist",
     "build": "babel src -d dist",

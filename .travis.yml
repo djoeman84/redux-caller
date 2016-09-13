@@ -15,6 +15,7 @@ cache:
   - $HOME/.npm
 deploy:
   provider: npm
+  email: djoeman84+npm@gmail.com
   on:
     branch: master
   api_key:
