@@ -34,7 +34,7 @@
     "chai": "^3.5.0",
     "eslint": "^3.5.0",
     "eslint-config-airbnb": "^11.0.0",
-    "eslint-plugin-import": "^1.4.0",
+    "eslint-plugin-import": "^2.1.0",
     "immutable": "^3.8.1",
     "mocha": "^3.0.2",
     "rimraf": "^2.5.2",
